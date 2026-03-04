@@ -1,10 +1,8 @@
 # 🚀 XanaxWay Serverless Telegram AI Bot
 
-<div align="center">
-  <img src="https://cdn.xanaxway.com/brand/xanaxway-llm-logo.jpg" alt="XanaxWay Logo" width="150" />
+![xanaxway logo](https://cdn.xanaxway.com/brand/xanaxway-llm-logo.jpg)  
   
   **A fully serverless, ultra-fast, and memory-enabled Telegram AI Bot powered by the XanaxWay Neural API. Deploy for FREE on Vercel.**[Live Demo: @xanaxway_cloud_bot](https://t.me/xanaxway_cloud_bot) • [XanaxWay API Docs](https://xanaxway.com)
-</div>
 
 ---
 
@@ -24,8 +22,8 @@ You can deploy your own AI bot in 3 minutes using Vercel.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/YourUsername/xanaxway-telegram-bot-serverless.git
-cd xanaxway-telegram-bot-serverless
+git clone https://github.com/naxtasia/xanaxway-templates.git
+cd telegram-serverless-bot
 ```
 
 ### Step 2: Set Up Environment Variables (.env)
